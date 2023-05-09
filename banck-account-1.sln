@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "banck-account-1", "banck-account-1\banck-account-1.csproj", "{98DA50A3-AD10-4AC2-B480-019A1B48CF03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98DA50A3-AD10-4AC2-B480-019A1B48CF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DA50A3-AD10-4AC2-B480-019A1B48CF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DA50A3-AD10-4AC2-B480-019A1B48CF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DA50A3-AD10-4AC2-B480-019A1B48CF03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E8193ED-C0F4-4BC7-A8DE-E565A8F45F18}
+	EndGlobalSection
+EndGlobal

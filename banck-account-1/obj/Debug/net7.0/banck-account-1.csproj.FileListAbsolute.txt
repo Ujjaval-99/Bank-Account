@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Promact Trainning\banck-account-1\banck-account-1\obj\Debug\net7.0\banck-account-1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Promact Trainning\banck-account-1\banck-account-1\obj\Debug\net7.0\banck-account-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Promact Trainning\banck-account-1\banck-account-1\obj\Debug\net7.0\banck-account-1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Promact Trainning\banck-account-1\banck-account-1\obj\Debug\net7.0\banck-account-1.AssemblyInfo.cs
+C:\Users\admin\Desktop\Promact Trainning\banck-account-1\banck-account-1\obj\Debug\net7.0\banck-account-1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Promact Trainning\banck-account-1\banck-account-1\bin\Debug\net7.0\banck-account-1.exe
+C:\Users\admin\Desktop\Promact Trainning\banck-account-1\banck-account-1\bin\Debug\net7.0\banck-account-1.deps.json
+C:\Users\admin\Desktop\Promact Trainning\banck-account-1\banck-account-1\bin\Debug\net7.0\banck-account-1.runtimeconfig.json
+C:\Users\admin\Desktop\Promact Trainning\banck-account-1\banck-account-1\bin\Debug\net7.0\banck-account-1.dll
+C:\Users\admin\Desktop\Promact Trainning\banck-account-1\banck-account-1\bin\Debug\net7.0\banck-account-1.pdb
+C:\Users\admin\Desktop\Promact Trainning\banck-account-1\banck-account-1\obj\Debug\net7.0\banck-account-1.dll
+C:\Users\admin\Desktop\Promact Trainning\banck-account-1\banck-account-1\obj\Debug\net7.0\refint\banck-account-1.dll
+C:\Users\admin\Desktop\Promact Trainning\banck-account-1\banck-account-1\obj\Debug\net7.0\banck-account-1.pdb
+C:\Users\admin\Desktop\Promact Trainning\banck-account-1\banck-account-1\obj\Debug\net7.0\banck-account-1.genruntimeconfig.cache
+C:\Users\admin\Desktop\Promact Trainning\banck-account-1\banck-account-1\obj\Debug\net7.0\ref\banck-account-1.dll
